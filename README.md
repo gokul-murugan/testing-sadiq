@@ -23,6 +23,10 @@ remote  --> Repo
 - git checkout -b <branch_name>   ==> Create a new branch
 - git branch                      ==> check the current branch that you are working
 - git diff                        ==> Comparison between your previous and current state
+- git add .
+- git commit -m "<message>"
+- git push --set-upstream origin <branch_name>
+- git push
 
 
 Different branch
